@@ -1,6 +1,6 @@
 /**
  * Playing around with 'Mouse 2D' from processing sample code and the in-class code from Lecture 1
- * September 10, 2022
+ * September 13, 2022
  *
  * Moving the mouse changes the position and size of each box.
  */
