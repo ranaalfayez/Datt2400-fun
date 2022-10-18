@@ -1,1 +1,14 @@
-//For A1, I was inspired by. I became fasinated with the idea of combining nature and technology and began exploring how I could represent tree rings. 
+//For A1, I was inspired by the idea of combining nature and technology to generate something that looks organic and. This past summer, I had the chance to chop some wood while camping in Northern Ontario. While not an experiece I will likely repeat (I did not have very good form and was pretty ineffective), I became fasinated with interesting patterns that appear on the inside of a tree trunk. Through their repeating patterns, these rings tell a story all on there own, from how old the tree is, and what the weather was like during each year of the tree's life. The rings vary in thickness, distance, uniformity, shape and size. 
+
+I began exploring how I could represent tree rings in the experiments folder: 
+- Sketch 1 represents my first iteration, where I simply created concentric circles
+- Sketch 2 built on this by showing the possible variations in a grid format
+- Sketch 3 was the biggest leap in trying to represent tree rings. Using mathematical functions, I began to explore how to curve and close the rings using Curve Vertex
+- Sketch 4 is a messed up version of my final Tree Rings
+
+My texture code file was also saved as an SVG and combined in Photoshop with my Main Tree Rings. 
+
+References: 
+Using CurveVertex: https://processing.org/reference/curveVertex_.html
+Inspiration Image: https://c8.alamy.com/comp/RB3Y2A/tree-rings-abstract-background-set-of-16-doodle-style-variety-of-shapes-RB3Y2A.jpg
+Reference Image: https://climate.nasa.gov/internal_resources/1062/
