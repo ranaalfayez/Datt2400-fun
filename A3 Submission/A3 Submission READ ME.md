@@ -11,3 +11,5 @@ I wanted the game to be relaxing, calming and almost meditative in its gameplay 
 
 From a coding perspective, I used a combination of Object Oriented Coding and lots of straightforward blocks of code that came alive through experimentation. This disorganized approach made it easy to be spontaneous but diffifult to make edits over longer periods of time. I would often find myself rewriting chunks of code because I simply did not remember what I was thinking. The linked Youtube Playlist was EXTREMELY helpful with putting together the collision mechanics and my 'Sprite' class. 
 _Link: https://www.youtube.com/watch?v=bde7PWCPw-A&list=PLYNGZdVGGmHxPqhiMlKAkVYdC2d3YU_3m_
+
+The game involves movement using both the keyboard to complete tasks, and via mouse movement during the opening and closing sequence to add an element of exploration and freedom of movement. 
