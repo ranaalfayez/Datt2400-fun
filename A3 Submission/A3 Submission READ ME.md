@@ -3,7 +3,7 @@
 
 I was inspired again by the relationship betwee creative coding and the perfect spontaneity of nature. I initiatlly set out to create a simulation of bee movements and declining hive populations. As the work developed, the project took on a deeper story-based approach centered around 'The Last Bee on Earth'. While not a traditional game with 'win/lose' mechanics, Song of The Bees is an explorative game that takes the player on a narraitve journey with the Bee through its busy working days, concluding with an open-ended, ambigious ending. 
 
-_The Developed Sketches_
+_The Developed Sketches:_
 
 
 
