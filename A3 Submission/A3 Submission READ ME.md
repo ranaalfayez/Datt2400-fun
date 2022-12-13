@@ -5,9 +5,8 @@
 I was inspired again by the relationship betwee creative coding and the perfect spontaneity of nature. I initiatlly set out to create a simulation of bee movements and declining hive populations. As the work developed, the project took on a deeper story-based approach centered around 'The Last Bee on Earth'. While not a traditional game with 'win/lose' mechanics, Song of The Bees is an explorative game that takes the player on a narraitve journey with the Bee through its busy working days, concluding with an open-ended, ambigious ending. 
 
 _The Developed Sketches:_
-![IMG_0586 2](https://user-images.githubusercontent.com/102258848/207208644-c7d5f2ae-adc3-4cd7-94cd-7f377a08574a.png)
-![IMG_0586](https://user-images.githubusercontent.com/102258848/207208649-95da08e2-4246-4972-858f-f348b90ea014.png)
-
+![IMG_0586 2 Small](https://user-images.githubusercontent.com/102258848/207208739-dc671026-3551-4fec-a168-a7bd4d76c9fe.jpeg)
+![IMG_0586 Small](https://user-images.githubusercontent.com/102258848/207208740-caea18c4-2182-4997-b641-1311779b0523.jpeg)
 
 
 From a coding perspective, I used a combination of Object Oriented Coding and lots of straightforward blocks of code that came alive through experimentation. This disorganized approach made it easy to be spontaneous but diffifult to make edits over longer periods of time. I would often find myself rewriting chunks of code because I simply did not remember what I was thinking. 
