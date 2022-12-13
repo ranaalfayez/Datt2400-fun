@@ -1,3 +1,4 @@
+<img width="144" alt="Screen Shot 2022-12-11 at 11 29 51 PM" src="https://user-images.githubusercontent.com/102258848/207207791-9bd89724-2746-4d20-9294-0f4a827a8bb7.png">
 
 **TITLE: SONG OF THE BEES**
 
